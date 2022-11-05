@@ -1,5 +1,7 @@
 # vscode-odoo
 
+
+.vscode/.vscode/launch.json
 ```
 {
     // Use IntelliSense para saber los atributos posibles.
