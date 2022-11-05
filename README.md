@@ -1,4 +1,4 @@
-# vscode-odoo
+# VsCode Odoo
 
 
 .vscode/.vscode/launch.json
